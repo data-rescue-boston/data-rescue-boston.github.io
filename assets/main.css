@@ -36,8 +36,8 @@ div.embed { position: relative; width: 100%; height: 0; padding-bottom: 56.25%; 
 div.embed iframe { border: 0; position: absolute; width: 100%; height: 100%; left: 0; top: 0; }
 
 div.row { clear: both; }
-div.col-2 { width: 48%; display: inline-block; vertical-align: top; }
-div.sponsors {width: 90%; display: block; margin: 0 auto 1.5em;}
+div.col-2 { width: 48%; display: inline-block; vertical-align: top; margin: 1em }
+div.sponsors {width: 90%; display: inline-block; margin: 0 auto 1.5em;}
 
 .btn { display: inline-block; padding: 0.5em; border-radius: 0.1em; color: #fff !important; text-decoration: none !important; text-shadow: 0 0 1px #rgba(0,0,0,0.3); cursor: pointer; box-shadow: 0 0.1em 1em -0.5em rgba(0,0,0,0.5); }
 .btn-fb { background: #3b5998 }
