@@ -2,7 +2,7 @@
 class: fullheight dark
 page: mit
 ---
-# Event Info
+## Event Info
 
 [DataRescue at MIT](https://www.facebook.com/events/1625484311094707)
 
