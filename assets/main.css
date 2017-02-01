@@ -38,15 +38,12 @@ div.row { clear: both; }
 div.col-2 { width: 48%; display: inline-block; vertical-align: top; margin: 1em }
 
 div.sponsors {
-  -webkit-column-count: 4;
-     -moz-column-count: 4;
-          column-count: 4;
+  -webkit-column-count: 3;
+     -moz-column-count: 3;
+          column-count: 3;
   -webkit-column-gap: 1em;
      -moz-column-gap: 1em;
           column-gap: 1em;
-  -webkit-column-fill: balance;
-     -moz-column-fill: balance;
-          column-fill: balance;
 }
 
 div.sponsors a { display:inline-block; vertical-align:top; } 
