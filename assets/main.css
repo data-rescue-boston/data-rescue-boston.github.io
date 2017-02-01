@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5 { margin: 0.2em 0 0.5em 0; }
 div.section h2 { font-weight: 100; font-size: 300%;  }
 div.section h2 small { font-weight: normal; font-size: 33%;  }
 
-nav { display: block; background: #111; position: fixed; top:0; left:0; padding: 0.2em 0; }
+nav { width: 100%; display: block; background: #111; position: fixed; top:0; left:0; padding: 0.2em 0; }
 nav ul { list-style-type: none; }
 nav ul li { display: inline-block; padding: 0; margin: 0;}
 nav ul li:first-child { border-left: 1px solid #222; }
