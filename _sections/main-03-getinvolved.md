@@ -12,7 +12,7 @@ page: main
 <h3>Can’t make it to an event but still want to contribute?</h3>
 
 <p><a class="btn btn-success btn-lg" href="https://www.generosity.com/community-fundraising/protect-public-environmental-data-and-research"> <i class="fa fa-heart"></i> Donate to support EDGI</a></p>
-<p><a class="btn btn-fb btn-lg" href="https://www.facebook.com/groups/datarescueboston/"> Join our facebook group </a></p>
+<p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/datarescueboston/"> Join our facebook group </a></p>
 
 <h3>Are you a member of the press?</h3>
 
