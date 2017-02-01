@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Rescue Boston at MIT
+title: Data Rescue Boston at Harvard
 permalink: /harvard/
 ---
 
