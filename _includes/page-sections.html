@@ -1,0 +1,10 @@
+{% assign sections = site.sections | where:'page',include.page %}
+{% for section in sections %}
+<div class="section {{ section.class }}">
+  <div class="inner">
+
+  {{ section.content }}
+
+  </div>
+</div>
+{% endfor %}

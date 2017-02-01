@@ -1,0 +1,13 @@
+title: Data Rescue Boston
+description: Data Rescue Boston
+baseurl: ""
+url: "https://datarescue-boston.github.io"
+
+collections:
+  - sections
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
