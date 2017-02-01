@@ -37,16 +37,9 @@ div.embed iframe { border: 0; position: absolute; width: 100%; height: 100%; lef
 div.row { clear: both; }
 div.col-2 { width: 48%; display: inline-block; vertical-align: top; margin: 1em }
 
-div.sponsors {
-  -webkit-column-count: 3;
-     -moz-column-count: 3;
-          column-count: 3;
-  -webkit-column-gap: 1em;
-     -moz-column-gap: 1em;
-          column-gap: 1em;
-}
+div.sponsors { margin: 1em 0; }
 
-div.sponsors a { display:inline-block; vertical-align:top; } 
+div.sponsors a { display:inline-block; width: 30%; vertical-align:top; padding: 1em; } 
 div.sponsors img { width: 100%; }
 
 .btn { display: inline-block; padding: 0.5em; border-radius: 0.1em; color: #fff !important; text-decoration: none !important; text-shadow: 0 0 1px #rgba(0,0,0,0.3); cursor: pointer; box-shadow: 0 0.1em 1em -0.5em rgba(0,0,0,0.5); }
