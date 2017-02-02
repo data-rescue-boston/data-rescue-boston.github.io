@@ -7,7 +7,7 @@ page: main
 
 <p>DataRescue Boston is being organized by professors, students, researchers, librarians, and activists from universities across the Boston Metro area, including Harvard, MIT, Tufts, and Northeastern.</p>
 
-<p>The DataRescue initiative is organized by <a href="https://envirodatagov.org">the environmental Data and Governance Initiative</a> and <a href="https://www.ppehlab.org">the UPenn Program in the Enviromental Humanities</a> </p>
+<p>The DataRescue initiative is organized by <a href="https://envirodatagov.org">the Environmental Data and Governance Initiative</a> and <a href="https://www.ppehlab.org">the UPenn Program in the Enviromental Humanities</a> </p>
 
 <h3>National</h3>
 <div class="sponsors">
