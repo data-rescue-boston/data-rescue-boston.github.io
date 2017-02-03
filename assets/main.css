@@ -34,8 +34,9 @@ div.embed iframe { border: 0; position: absolute; width: 100%; height: 100%; lef
 
 /* sponsors */
 div.sponsors { margin: 1em 0; }
-div.sponsors a { display:inline-block; width: 33%; vertical-align:top; padding: 1em; } 
+div.sponsors a { display:inline-block; width: 48%; vertical-align:top; padding: 1em; } 
 div.sponsors a.wide { width: 66%; }
+div.sponsors a.extra-wide { width: 100%; }
 div.sponsors img { width: 100%; }
 
 /* buttons */
