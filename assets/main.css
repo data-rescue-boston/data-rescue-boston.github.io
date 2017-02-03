@@ -39,7 +39,7 @@ div.sponsors a.wide { width: 66%; }
 div.sponsors img { width: 100%; }
 
 /* buttons */
-.btn { display: inline-block; padding: 0.5em 1em; border-radius: 0.1em; color: #fff !important; text-decoration: none !important; text-shadow: 0 0 1px rgba(0,0,0,0.3); cursor: pointer; box-shadow: 0 0.1em 1em -0.5em rgba(0,0,0,0.5); margin: 0.4em; }
+.btn { display: inline-block; padding: 0.5em 1em; border-radius: 0.1em; color: #fff !important; text-decoration: none !important; text-shadow: 0 0 1px rgba(0,0,0,0.3); cursor: pointer; box-shadow: 0 0.1em 1em -0.5em rgba(0,0,0,0.5); margin: 0.25em 0.5em 0.25em 0; }
 .btn i.fa { margin-right: 0.25em; }
 .btn-success { background: #4cae4c; }
 .btn-primary { background: #2e6da4; }
