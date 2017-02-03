@@ -25,7 +25,7 @@ page: main
 <div class="sponsors">
 </div>
 <a href="http://cce.mit.edu" class="wide"><img src="{{ "/assets/cce-logo.png" | relative_url }}" /></a>
-<a href="http://cee.mit.edu" class="wide"><img src="{{"/assets/cee-logo-color.jpg" | relative_url }}" /></a>
+<a href="http://cee.mit.edu" class="wide"><img src="{{"/assets/cee-logo-color.png" | relative_url }}" /></a>
 </div>
 
 <h3>Harvard</h3>
