@@ -13,6 +13,7 @@ page: main
 
 <p><a class="btn btn-success btn-lg" href="https://www.generosity.com/community-fundraising/protect-public-environmental-data-and-research"> <i class="fa fa-heart"></i> Donate to support EDGI</a></p>
 <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/datarescueboston/"> Join our facebook group </a></p>
+<p><a class="btn btn-warning btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSczTX-DRupc4OD8JxsU-yWAGHx-U4AyZlfuPmojHyahWpAT4w/viewform?c=0&w=1"> Join our weekly working group </a></p>
 
 <h3>Are you a member of the press?</h3>
 
