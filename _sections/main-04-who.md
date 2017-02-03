@@ -19,9 +19,9 @@ page: main
 <div class="sponsors">
 <a href="http://acses.mit.edu"><img src="{{ "/assets/ACSES-logo.png" | relative_url }}" /></a>
 <a href="http://libraries.mit.edu"><img src="{{ "/assets/mit-libraries-logo.png" | relative_url }}" /></a>
+<a href="http://gsc.mit.edu"><img src="{{ "/assets/gsc-square-logo.png" | relative_url }}" /></a>
 </div>
 <div class="sponsors">
-<a href="http://gsc.mit.edu"><img src="{{ "/assets/gsc-square-logo.png" | relative_url }}" /></a>
 <a href="http://cce.mit.edu" class="wide"><img src="{{ "/assets/cce-logo.png" | relative_url }}" /></a>
 <a href="http://cee.mit.edu" class="wide"><img src="{{"/assets/cee-logo-color.jpg" | relative_url }}" /></a>
 </div>
