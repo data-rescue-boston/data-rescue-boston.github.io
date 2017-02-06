@@ -24,7 +24,7 @@ page: main
 <a href="http://gsc.mit.edu"><img src="{{ "/assets/gsc-square-logo.png" | relative_url }}" /></a>
 <div class="sponsors">
 </div>
-<a href="https://environmentalsolutions.mit.edu/" class="extra-wide"><img src="{{ "/assets/esi-logo.png" | relative_url }}" /></a>
+<a href="https://environmentalsolutions.mit.edu/" class="extra-wide"><img src="{{ "/assets/ESI-logo.png" | relative_url }}" /></a>
 <a href="http://cce.mit.edu" class="extra-wide"><img src="{{ "/assets/cce-logo.png" | relative_url }}" /></a>
 <a href="http://cee.mit.edu" class="extra-wide"><img src="{{"/assets/cee-logo-color.png" | relative_url }}" /></a>
 </div>
