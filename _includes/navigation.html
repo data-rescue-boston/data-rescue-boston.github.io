@@ -1,0 +1,17 @@
+<nav>
+  <div class="navbar">
+  <a href="{{ "/" | relative_url }}">Home</a>
+  <a href="{{ "/news" | relative_url }}">News</a>
+  <div class="dropdown">
+    <a href="#">Events</a>
+    <div class="dropdown-content">
+      <span class="dropdown-separator">Upcoming</span>
+      <a href="{{ "/mit" | relative_url }}">MIT<span class="date">Feb 18</span></a>
+      <a href="{{ "/northeastern" | relative_url }}">Northeastern<span class="date">Mar 24</span></a>
+      <a href="{{ "/unh" | relative_url }}">UNH<span class="date">Feb 17</span></a>
+      <span class="dropdown-separator">Past</span>
+      <a href="{{ "/harvard" | relative_url }}">Harvard<span class="date">Feb 1</span></a>
+    </div>
+  </div>
+  </div>
+</nav>

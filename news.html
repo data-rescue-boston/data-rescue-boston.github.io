@@ -1,0 +1,25 @@
+---
+layout: default
+title: Data Rescue Boston - News
+---
+
+<div class="section dark">
+  <div class="inner">
+
+    <h2>News</h2>
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li class="post {{ post.class }}">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h3>
+            <!-- <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>-->
+            <a>{{ post.title | escape }}</a>
+          </h3>
+          <div class="post-content">{{ post.content }}</div>
+        </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+</div>
