@@ -23,6 +23,8 @@ nav span.dropdown-separator { display: inline-block; color: #999; padding: 0 1em
 nav span.date { float: right; color: #666; font-size: 85%; }
 nav a:hover { color: #fff; text-decoration: none; background: #444; }
 nav div.dropdown:hover div.dropdown-content { display: block; }
+nav div.dropdown:hover { background:#222; }
+nav div.dropdown:hover a { background: transparent; }
 @media only screen and (max-width: 500px) {
   nav div.dropdown-content { position:fixed; top: 3.5em; width: 100%; }
 }

@@ -5,6 +5,7 @@ url: "https://datarescue-boston.github.io"
 
 collections:
   - sections
+  - meetings
 
 # Build settings
 markdown: kramdown
