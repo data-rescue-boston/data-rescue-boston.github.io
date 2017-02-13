@@ -3,7 +3,7 @@ class: light
 page: main
 ---
 
-<h2><i class="fa fa-id-card-o" aria-hidden="true"></i>Who we are</h2>
+<h2><i class="fa fa-id-card-o" aria-hidden="true"></i> Who we are</h2>
 
 <p>DataRescue Boston is being organized by professors, students, researchers, librarians, and activists from universities across the Boston Metro area, including Harvard, MIT, Tufts, and Northeastern.</p>
 
