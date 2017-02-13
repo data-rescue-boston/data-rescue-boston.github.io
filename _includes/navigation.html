@@ -1,8 +1,8 @@
 <nav>
   <div class="navbar">
-  <a href="{{ "/" | relative_url }}">Home</a>
+  <a href="{{ "/" | relative_url }}"> <i class="fa fa-home" aria-hidden="true"></i> Home</a>
   <div class="dropdown">
-    <a href="#">Events&nbsp;&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+    <a href="#"><i class="fa fa-calendar-o" aria-hidden="true"></i> Events&nbsp;&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></a>
     <div class="dropdown-content">
       <span class="dropdown-separator">Upcoming</span>
       <a href="{{ "/mit" | relative_url }}">MIT<span class="date">Feb 18</span></a>
@@ -12,7 +12,7 @@
       <a href="{{ "/harvard" | relative_url }}">Harvard<span class="date">Feb 1</span></a>
     </div>
   </div>
-  <a href="{{ "/news" | relative_url }}">News</a>
-  <a href="{{ "/meetings" | relative_url }}">Meetings</a>
+  <a href="{{ "/news" | relative_url }}"><i class="fa fa-newspaper-o" aria-hidden="true"></i> News</a>
+  <a href="{{ "/meetings" | relative_url }}"><i class="fa fa-users" aria-hidden="true"></i> Meetings</a>
   </div>
 </nav>
