@@ -29,6 +29,6 @@ page: main
 
 <h3>Harvard</h3>
 <div class="sponsors">
-<a href="http://library.harvard.edu"><img src="{{ "/assets/harvard-library-logo.jpg" | relative_url }}" /></a>
+<a href="http://library.harvard.edu"><img src="{{ "/assets/harvard-library-logo.jpeg" | relative_url }}" /></a>
 <a href="http://iq.harvard.edu"><img src="{{ "/assets/iqss-logo.png" | relative_url }}" /></a>
 </div>
