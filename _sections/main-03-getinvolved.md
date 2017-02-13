@@ -3,7 +3,7 @@ class: dark
 page: main
 ---
 
-<h2>Get Involved</h2>
+<h2><i class="fa fa-user-plus" aria-hidden="true"></i> Get Involved</h2>
 
 <p>The best way to get involved is to join us at one of our events. You'll meet tons of motivated, science-loving individuals from diverse backgrounds who want to ensure continued public access to data. We need people with all backgrounds and experience; whether you're an expert researcher leading your field, or an average citizen trying to figure out how to help, we'll have ways that you can support the cause.</p>
 
@@ -12,8 +12,8 @@ page: main
 <h3>Can’t make it to an event but still want to contribute?</h3>
 
 <p><a class="btn btn-success btn-lg" href="https://www.generosity.com/community-fundraising/protect-public-environmental-data-and-research"> <i class="fa fa-heart"></i> Donate to support EDGI</a></p>
-<p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/datarescueboston/"> Join our facebook group </a></p>
-<p><a class="btn btn-warning btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSczTX-DRupc4OD8JxsU-yWAGHx-U4AyZlfuPmojHyahWpAT4w/viewform?c=0&w=1"> Join our weekly working group </a></p>
+<p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/datarescueboston/"><i class="fa fa-facebook-square" aria-hidden="true"></i> Join our facebook group </a></p>
+<p><a class="btn btn-warning btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSczTX-DRupc4OD8JxsU-yWAGHx-U4AyZlfuPmojHyahWpAT4w/viewform?c=0&w=1"><i class="fa fa-users" aria-hidden="true"></i> Join our weekly working group </a></p>
 
 <h3>Are you a member of the press?</h3>
 
