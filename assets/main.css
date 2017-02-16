@@ -27,6 +27,7 @@ nav div.dropdown:hover { background:#222; }
 nav div.dropdown:hover a { background: transparent; }
 @media only screen and (max-width: 500px) {
   nav div.dropdown-content { position:fixed; top: 3.5em; width: 100%; }
+  nav i.fa { display: none; }
 }
 
 /* fluid 16:9 iframes */
@@ -56,7 +57,7 @@ div.sponsors img { width: 100%; }
 .btn-primary { background: #2e6da4; }
 .btn-warning { background: #eea236; }
 
-/* fake news */
+/* news */
 ul.post-list { list-style-type: none; padding: 0; }
 ul.post-list li:nth-child(odd) { background: #171c32; }
 ul.post-list li:nth-child(even) { background: #1d2440; }
