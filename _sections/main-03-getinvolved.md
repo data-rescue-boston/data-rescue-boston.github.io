@@ -12,8 +12,9 @@ page: main
 <h3>Can’t make it to an event but still want to contribute?</h3>
 
 <p><a class="btn btn-success btn-lg" href="https://www.generosity.com/community-fundraising/protect-public-environmental-data-and-research"> <i class="fa fa-heart"></i> Donate to support EDGI</a></p>
-<p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/datarescueboston/"><i class="fa fa-facebook-square" aria-hidden="true"></i> Join our facebook group </a></p>
-<p><a class="btn btn-warning btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSczTX-DRupc4OD8JxsU-yWAGHx-U4AyZlfuPmojHyahWpAT4w/viewform?c=0&w=1"><i class="fa fa-users" aria-hidden="true"></i> Join our weekly working group </a></p>
+<p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/datarescueboston/"><i class="fa fa-facebook-square" aria-hidden="true"></i> Join our facebook group! </a></p>
+<p><a class="btn btn-warning btn-lg" href="https://groups.google.com/forum/#!forum/datarescuebos"><i class="fa fa-envelope-o" aria-hidden="true"></i> Join our mailing list! </a></p>
+<p><a class="btn btn-default btn-lg" href="{{ "/mit/" | relative_url }}"><i class="fa fa-users"></i>Join our weekly meeting!</a></p>
 
 <h3>Are you a member of the press?</h3>
 
