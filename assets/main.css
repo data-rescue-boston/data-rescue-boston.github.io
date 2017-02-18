@@ -8,6 +8,7 @@ a:hover { text-decoration: underline; }
 div.section .inner { width: 100%; max-width: 50em; margin: 0 auto; padding: 2em 4%; }
 h1, h2, h3, h4, h5 { margin: 0.2em 0 0.5em 0; }
 div.section h2 { font-weight: 100; font-size: 300%;  }
+div.section h3 { font-size: 150%;  }
 @media only screen and (max-width: 500px) {
   div.section h2 { font-size: 250%; }
   div.section h2 i.fa { display: none; }
