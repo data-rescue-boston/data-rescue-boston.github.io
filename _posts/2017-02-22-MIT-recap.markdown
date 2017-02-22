@@ -8,7 +8,6 @@ published: true
 
 <p class="lead">Thanks to everyone for attending and contributing to DataRescue at MIT this past weekend! </p>
 <img class="photo-wide" src="{{ "/assets/photos/harvest-wide-announce.jpg" | relative_url }}"/>
-<p class="lead"> With your help, we were able to achieve:</p>
 
 <h3>We seeded and harvested a lot of websites</h3>
 <p><img class="photo" src="{{ "/assets/photos/harvest-table.jpg" | relative_url }}"/> Our work covered websites and data sets in DOE, EPA, NASA, DOI, and NOAA:</p>
