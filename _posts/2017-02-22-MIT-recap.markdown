@@ -10,7 +10,6 @@ published: true
 <img class="photo" src="{{ "/assets/photos/harvest-wide-announce.jpg" | relative_url }}"/>
 
 <h3>We seeded and harvested a lot of websites</h3>
-<img class="photo" src="{{ "/assets/photos/harvest-table.jpg" | relative_url }}"/>
 <p>Our work covered websites and data sets in DOE, EPA, NASA, DOI, and NOAA:</p>
 <ul>
 <li>~80,000 URLs seeded </li>
@@ -26,7 +25,7 @@ published: true
 
 <h3>We expanded the DataRescue efforts beyond climate data</h3>
 <img class="photo" src="{{ "/assets/photos/surveyors.jpg" | relative_url }}"/>
-<p>We also piloted the Surveying track to expand the DataRescue efforts to cover non-environmental data. Our surveying team was able to write and additional 5 Main Agency Primers and 16 Sub-Agency Primers covering:</p>
+<p>We piloted the Surveying track to expand the DataRescue efforts to cover non-environmental data. Our surveying team was able to write and additional 5 Main Agency Primers and 16 Sub-Agency Primers covering:</p>
 <ul>
 <li>Department of Justice</li>
 <li>Department of Labor </li>
@@ -35,6 +34,7 @@ published: true
 <li>Federal Communications Commission</li>
 </ul>
 <p>Writing primers is the first step in the DataRescue process, and the work done by the surveyors at our event allows us to begin rescuing important non-climate-related data!</p>
+<img class="photo" src="{{ "/assets/photos/harvest-table.jpg" | relative_url }}"/>
 
 <h3>We collected data stories</h3>
 <p>We wanted to learn about our diverse set of attendees: why they came to the event, why was data important to them, what were they concerned about, what do they want to see happen? </p>
