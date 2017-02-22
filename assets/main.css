@@ -6,7 +6,7 @@ body { font-family: 'Roboto', sans-serif; font-size: 16px; line-height: 1.6; col
 a, a:visited { color: #2aa5d4; text-decoration: none; }
 a:hover { text-decoration: underline; }
 div.section .inner { width: 100%; max-width: 50em; margin: 0 auto; padding: 2em 4%; }
-h1, h2, h3, h4, h5 { margin: 0.2em 0 0.5em 0; }
+h1, h2, h3, h4, h5 { margin: 0.2em 0 0.2em 0; }
 div.section h2 { font-weight: 100; font-size: 300%;  }
 div.section h3 { font-size: 150%;  }
 @media only screen and (max-width: 500px) {
@@ -74,7 +74,6 @@ li.post h3 { font-size: 160%; }
   li.post { padding: 0.8em; }
 }
 
-img.photo-wide { width: 100%; display: inline-block; margin: 0 auto 1.5em; }
-img.photo { width: 48%; display: inline-block; margin: 0 auto 1.5em; }
-div.column { display:inline-block; width: 50%; padding: 0.5em 0.5em 0.5em; }
+img.photo { width: 100%; display: block; margin: 0em; }
+div.column { display:inline-block; width: 50% }
 

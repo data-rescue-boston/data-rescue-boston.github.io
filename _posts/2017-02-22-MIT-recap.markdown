@@ -7,7 +7,7 @@ published: true
 ---
 
 <p class="lead">Thanks to everyone for attending and contributing to DataRescue at MIT this past weekend! </p>
-<img class="photo-wide" src="{{ "/assets/photos/harvest-wide-announce.jpg" | relative_url }}"/>
+<img class="photo" src="{{ "/assets/photos/harvest-announce.jpg" | relative_url }}"/>
 
 <h3>We seeded and harvested a lot of websites</h3>
 <p><img class="photo" src="{{ "/assets/photos/harvest-table.jpg" | relative_url }}"/> Our work covered websites and data sets in DOE, EPA, NASA, DOI, and NOAA:</p>
@@ -21,10 +21,10 @@ published: true
 <li>53 Data sets harvested (35 GiB data)</li>
 </ul>
 <p>This work helps us ensure that climate data is comprehensively collected, mirrored, and accessible to everyone.</p>
-<img class="photo-wide" src="{{ "/assets/photos/seeder-smiles.jpg" | relative_url }}"/>
+<img class="photo" src="{{ "/assets/photos/seeder-smiles.jpg" | relative_url }}"/>
 
 <h3>We expanded the DataRescue efforts beyond climate data</h3>
-<img class="photo-wide" src="{{ "/assets/photos/surveyors.jpg" | relative_url }}"/>
+<img class="photo" src="{{ "/assets/photos/surveyors.jpg" | relative_url }}"/>
 <p>We also piloted the Surveying track to expand the DataRescue efforts to cover non-environmental data. Our surveying team was able to write and additional 5 Main Agency Primers and 16 Sub-Agency Primers covering:</p>
 <ul>
 <li>Department of Justice</li>
@@ -37,14 +37,14 @@ published: true
 
 <h3>We collected data stories</h3>
 <p>We wanted to learn about our diverse set of attendees: why they came to the event, why was data important to them, what were they concerned about, what do they want to see happen? </p>
-<img class="photo-wide" src="{{ "/assets/photos/all-ages.jpg" | relative_url }}"/>
+<img class="photo" src="{{ "/assets/photos/all-ages.jpg" | relative_url }}"/>
 <p>Our storytelling team compiled a set of in-depth profiles covering the following data sets and the people who rely on them:</p>
 <ul><li>National Water Information System (USGS)</li>
 <li>Alternative Fuels Data Center (DOE)</li>
 <li>Global Historical Climate Network (NOAA)</li>
 </ul>
 <p>We will be publishing these profiles in the coming weeks; we hope that they help illuminate how these data sets are used to better understand our world and make decisions that impact our everyday lives.</p>
-<img class="photo-wide" src="{{ "/assets/photos/discussion-close.jpg" | relative_url }}"/>
+<img class="photo" src="{{ "/assets/photos/discussion-close.jpg" | relative_url }}"/>
 
 <h2>Moving forward:</h2>
 <p class="lead">We were astounded by the unique combination of technical talent, domain-specific expertise, and dedicated motivation of the DataRescue Boston community. We want to ensure that this community's experience and interests are represented in the DataRescue movement.</p> 
