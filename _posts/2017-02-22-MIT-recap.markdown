@@ -50,7 +50,8 @@ published: true
 <h2>Moving forward:</h2>
 <p class="lead">We were astounded by the unique combination of technical talent, domain-specific expertise, and dedicated motivation of the DataRescue Boston community. We want to ensure that this community's experience and interests are represented in the DataRescue movement.</p> 
 
-<img class="photo" src="{{ "/assets/photos/long-trail.jpg" | relative_url }}"/> <p>As a part of the event, we had a breakout session with attendees, organizers, and members of EDGI responsible for coordinating the national DataRescue movement on how to improve DataRescue efforts and tools, what are the main goals and priorities of the movement, and what are the best ways to accomplish those? These discussions are ongoing, and we want you to be a part of them moving forward. To get involved:</p>
+<img class="photo" src="{{ "/assets/photos/long-trail.jpg" | relative_url }}"/> 
+<p>As a part of the event, we had a breakout session with attendees, organizers, and members of EDGI responsible for coordinating the national DataRescue movement on how to improve DataRescue efforts and tools, what are the main goals and priorities of the movement, and what are the best ways to accomplish those? These discussions are ongoing, and we want you to be a part of them moving forward. To get involved:</p>
 <p><a class="btn btn-default btn-lg" href="{{"/meetings/" | relative_url}}"><i class="fa fa-users"></i> Attend our weekly meetings</a></p>
 <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/datarescueboston/"><i class="fa fa-facebook-square" aria-hidden="true"></i>  Join our facebook group </a></p>
 <p><a class="btn btn-success btn-lg" href="https://groups.google.com/forum/#!forum/datarescuebos"><i class="fa fa-envelope-o" aria-hidden="true"></i> Join our mailing list </a></p>
