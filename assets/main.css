@@ -68,8 +68,8 @@ div.sponsors img { width: 100%; }
 
 /* news */
 ul.post-list { list-style-type: none; padding: 0; }
-ul.post-list li:nth-child(odd) { background: #171c32; }
-ul.post-list li:nth-child(even) { background: #1d2440; }
+ul.post-list li.post:nth-child(odd) { background: #171c32; }
+ul.post-list li.post:nth-child(even) { background: #1d2440; }
 li.post { padding: 5em; }
 li.post h3 { font-size: 160%; }
 @media only screen and (max-width: 500px) {

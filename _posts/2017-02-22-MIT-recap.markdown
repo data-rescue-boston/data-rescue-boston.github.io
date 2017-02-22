@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "DataRescue MIT Recap and Moving Forward"
+title:  "DataRescue MIT Recap"
 date:   2017-02-22 13:21:00 -0500
 categories: announcements
 published: true
 ---
 
-<h2>Thanks to everyone for attending and contributing to DataRescue at MIT this past weekend! </h2>
+<h3>Thanks to everyone for attending and contributing to DataRescue at MIT this past weekend! </h3>
 <img class="photo-wide" src="{{ "/assets/photos/harvest-wide-announce.jpg" | relative_url }}"/>
 <p class="lead"> With your help, we were able to achieve the following:</p>
 
@@ -25,7 +25,7 @@ published: true
 <p>This work helps us ensure that climate data is comprehensively collected, mirrored, and accessible to everyone.</p>
 <img class="photo-wide" src="{{ "/assets/photos/seeder-smiles.jpg" | relative_url }}"/>
 
-<h3>We expanded the DataRescue efforts beyond just climate data</h3>
+<h3>We expanded the DataRescue efforts beyond climate data</h3>
 <img class="photo-wide" src="{{ "/assets/photos/surveyors.jpg" | relative_url }}"/>
 <p>We also piloted the Surveying track to expand the DataRescue efforts to cover non-environmental data. Our surveying team was able to write and additional 5 Main Agency Primers and 16 Sub-Agency Primers covering:</p>
 <ul>
@@ -37,7 +37,7 @@ published: true
 </ul>
 <p>Writing primers is the first step in the DataRescue process, and the work done by the surveyors at our event allows us to begin rescuing important non-climate-related data!</p>
 
-<h3>We heard people's data stories</h3>
+<h3>We collected data stories</h3>
 <p>We wanted to learn about our diverse set of attendees: why they came to the event, why was data important to them, what were they concerned about, what do they want to see happen? </p>
 <img class="photo-wide" src="{{ "/assets/photos/all-ages.jpg" | relative_url }}"/>
 <p>Our storytelling team compiled a set of in-depth profiles covering the following data sets and the people who rely on them:</p>
