@@ -10,7 +10,8 @@ published: true
 <img class="photo" src="{{ "/assets/photos/harvest-announce.jpg" | relative_url }}"/>
 
 <h3>We seeded and harvested a lot of websites</h3>
-<p><img class="photo" src="{{ "/assets/photos/harvest-table.jpg" | relative_url }}"/> Our work covered websites and data sets in DOE, EPA, NASA, DOI, and NOAA:</p>
+<img class="photo" src="{{ "/assets/photos/harvest-table.jpg" | relative_url }}"/>
+<p>Our work covered websites and data sets in DOE, EPA, NASA, DOI, and NOAA:</p>
 <ul>
 <li>~80,000 URLs seeded </li>
 <ul>
