@@ -74,6 +74,7 @@ li.post h3 { font-size: 160%; }
   li.post { padding: 0.8em; }
 }
 
+/* photos */
 img.photo { width: 100%; display: block; margin: 0em; }
 div.column { display:inline-block; width: 48% }
 
