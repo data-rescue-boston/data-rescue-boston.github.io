@@ -2,12 +2,12 @@
 class: dark
 page: main
 ---
-
-<h2 id="get_involved"><i class="fa fa-user-plus" aria-hidden="true"></i> Get Involved</h2>
+<a id="get_involved"></a>
+<h2><i class="fa fa-user-plus" aria-hidden="true"></i> Get Involved</h2>
 
 <p>The best way to get involved is to join us at one of our events. You'll meet tons of motivated, science-loving individuals from diverse backgrounds who want to ensure continued public access to data. We need people with all backgrounds and experience; whether you're an expert researcher leading your field, or an average citizen trying to figure out how to help, we'll have ways that you can support the cause.</p>
 
-<p>Don't be intimidated if you don't have a technical background. In fact, we especially need writers and artists to help document and communicate our efforts!</p>
+<p>Don't be intimidated if you don't have a technical background! There's work for people with all backgrounds to do!</p>
 
 <h3>Can’t make it to an event but still want to contribute?</h3>
 
