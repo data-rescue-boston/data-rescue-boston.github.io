@@ -47,7 +47,7 @@ div.embed { position: relative; width: 100%; height: 0; padding-bottom: 56.25%; 
 div.embed iframe { border: 0; position: absolute; width: 100%; height: 100%; left: 0; top: 0; }
 
 /* sponsors */
-div.sponsors { margin: 1em 0; }
+div.sponsors { margin: 1em 0; text-align: center; }
 div.sponsors a { display:inline-block; width: 48%; vertical-align:bottom; margin:auto; padding: 1em; }
 div.sponsors a.wide { width: 66%; }
 div.sponsors a.extra-wide { width: 100%; }
