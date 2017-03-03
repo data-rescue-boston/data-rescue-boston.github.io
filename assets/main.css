@@ -52,6 +52,7 @@ div.sponsors a { display:inline-block; width: 48%; vertical-align:top; padding: 
 div.sponsors a.wide { width: 66%; }
 div.sponsors a.extra-wide { width: 100%; }
 div.sponsors img { width: 100%; }
+div.sponsors img.half { width: 50%; }
 
 
 /* buttons */
