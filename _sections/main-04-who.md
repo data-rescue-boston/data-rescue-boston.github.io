@@ -32,3 +32,11 @@ page: main
 <a href="http://library.harvard.edu"><img src="{{ "/assets/harvard-library-logo.jpeg" | relative_url }}" /></a>
 <a href="http://iq.harvard.edu"><img src="{{ "/assets/iqss-logo.png" | relative_url }}" /></a>
 </div>
+
+<h3>Northeastern</h3>
+<div class="sponsors">
+<a href="http://library.northeastern.edu/" class="wide"><img src="{{ "/assets/northeastern-lib.png" | relative_url }}" /></a>
+<a href="https://www.northeastern.edu/environmentalhealth/about-ssehri/" class="wide"><img src="{{ "/assets/northeastern-ssehri-logo.png" | relative_url }}" /></a>
+<a href="https://bostoncivic.media/about" ><img src="{{ "/assets/boston-civic-media.png" | relative_url }}" /></a>
+<a href="https://elab.emerson.edu/"><img src="{{ "/assets/emerson-engagement-lab.png" | relative_url }}" /><img src="{{ "/assets/emerson-wordmark.png" | relative_url }}" style="mix-blend-mode: multiply;"/></a>
+</div>
