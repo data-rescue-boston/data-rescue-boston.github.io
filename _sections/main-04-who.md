@@ -11,8 +11,8 @@ page: main
 
 <h3>National</h3>
 <div class="sponsors">
-<a href="https://envirodatagov.org"><img src="{{ "/assets/EDGI-logo.png" | relative_url }}" /></a>
-<a href="https://ppehlab.org"><img src="{{ "/assets/datarefuge-logo.png" | relative_url }}" /></a>
+<a href="https://envirodatagov.org" class="extra-wide"><img src="{{ "/assets/EDGI-logo-horiz.png" | relative_url }}" /></a>
+<a href="https://ppehlab.org" class="extra-wide"><img src="{{ "/assets/datarefuge-logo.png" | relative_url }}" /></a>
 </div>
 
 <h3>MIT</h3>
